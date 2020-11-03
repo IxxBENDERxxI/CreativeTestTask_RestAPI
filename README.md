@@ -21,3 +21,9 @@
 Готовый результат необходимо залить на github. 
 
 
+Основные компоненты которые я использовал:
+- django 3.1.3
+- djangorestframework 3.12.1
+- djangorestframework-simplejwt - 4.4.0
+- djoser  2.1.0
+- psycopg2 2.8.6 для работы с PostgreSQL
